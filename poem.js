@@ -29,6 +29,11 @@ const poem = `
     We offer prayers to gods of code,
     In hopes the CI won't explode.
 
+    Frigid repos, still on time,
+    We make a mad dash and boast so early.
+    "We have yet to fail! Repos never stale!"
+    Yet at the final hill, a standstill.
+
     Docker containers drift like ghosts,
     While Jenkins breaks and haunts our posts.
     The cloud is down? Oh, what fresh hell!
